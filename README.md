@@ -1,2 +1,2 @@
 # jimni-icons
-contains icons for jimnilinux os, applications etc
+contains icons for JimniOS, applications etc
